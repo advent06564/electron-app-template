@@ -1,4 +1,6 @@
-## Electron App Template 
+# Electron App Template
+
+[![CI](https://github.com/advent06564/electron-app-template/actions/workflows/ci.yml/badge.svg)](https://github.com/advent06564/electron-app-template/actions/workflows/ci.yml)
 
 **IMPORTANT:** Click & open README.md for full instruction. The preview gets cut off. 
 
